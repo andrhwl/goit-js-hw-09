@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://GOOSxE.github.io/goit-js-hw-09",
+  "homepage": "https://github.com/andrhwl/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/andrhwl/goit-js-hw-09"
   },
   "keywords": [],
-  "author": "GOOSxE <alexander.repeta@gmail.com>",
+  "author": "Andrey <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/andrhwl/goit-js-hw-09"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
